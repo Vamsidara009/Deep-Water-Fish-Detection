@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+numpy
+python-multipart
+
+boxmot
+deep-sort-realtime

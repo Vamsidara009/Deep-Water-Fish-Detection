@@ -1,0 +1,37 @@
+# Virtual environment
+venv/
+.env/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Model weights (too large for git)
+models/*.pt
+
+# Uploaded videos
+uploads/
+
+# Sample outputs (generated)
+sample_outputs/
+
+# Sample inputs (large video files)
+sample_inputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Report files
+*.docx
+*.txt
+!requirements.txt
